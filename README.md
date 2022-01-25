@@ -20,4 +20,4 @@
 
 [Skillcertpro - Microsoft Azure Administrator (AZ-104) Exam Questions 2022](https://skillcertpro.com/product/microsoft-azure-administrator-az-104-practice-exam-test/)
 
-[Winzlab - Exam AZ-104: Microsoft Azure Administrator]](https://www.whizlabs.com/microsoft-azure-certification-az-104/)
+[Winzlab - Exam AZ-104: Microsoft Azure Administrator](https://www.whizlabs.com/microsoft-azure-certification-az-104/)
